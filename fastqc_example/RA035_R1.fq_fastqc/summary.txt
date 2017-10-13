@@ -1,0 +1,11 @@
+PASS	Basic Statistics	RA035_R1.fq.gz
+PASS	Per base sequence quality	RA035_R1.fq.gz
+PASS	Per sequence quality scores	RA035_R1.fq.gz
+WARN	Per base sequence content	RA035_R1.fq.gz
+FAIL	Per base GC content	RA035_R1.fq.gz
+WARN	Per sequence GC content	RA035_R1.fq.gz
+PASS	Per base N content	RA035_R1.fq.gz
+PASS	Sequence Length Distribution	RA035_R1.fq.gz
+WARN	Sequence Duplication Levels	RA035_R1.fq.gz
+FAIL	Overrepresented sequences	RA035_R1.fq.gz
+FAIL	Kmer Content	RA035_R1.fq.gz
