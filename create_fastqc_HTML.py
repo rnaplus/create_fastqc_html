@@ -301,12 +301,6 @@ def main():
     mytitle = 'Per base sequence content'
     createImageGridHTML(input_dir, dirlist, img_file, html_file, mytitle, options.ncols, options.img_width)
     
-    # Per base GC content
-    img_file = 'per_base_gc_content.png'
-    html_file = 'compare_per_base_gc_content.html'
-    mytitle = 'Per base GC content'
-    createImageGridHTML(input_dir, dirlist, img_file, html_file, mytitle, options.ncols, options.img_width)
-    
     # Per sequence GC content
     img_file = 'per_sequence_gc_content.png'
     html_file = 'compare_per_sequence_gc_content.html'
